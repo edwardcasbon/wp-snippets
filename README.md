@@ -15,3 +15,13 @@ Once you've installed the plugin, activate it and you'll see a new 'Snippets' ar
 After adding a snippet, you can add it to any post/page by visiting the edit screen for that page and selecting it from the 'Snippets' menu in the side bar.
 
 Enjoy :)
+
+## Screenshots
+Snippets list:
+![ScreenShot](https://raw.github.com/edwardcasbon/wp-snippets/master/screenshots/Snippets.png)
+
+Snippet edit page:
+![ScreenShot](https://raw.github.com/edwardcasbon/wp-snippets/master/screenshots/Snippet%20Edit.png)
+
+Post/Page Edit page:
+![ScreenShot](https://raw.github.com/edwardcasbon/wp-snippets/master/screenshots/Page%20edit.png)
