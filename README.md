@@ -1,4 +1,4 @@
-# Snippets (wp-snippets)
+# Snippets
 
 A WordPress plugin that allows users to use and update snippets of content across their Wordpress website.
 
