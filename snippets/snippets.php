@@ -68,7 +68,7 @@ class Snippets {
 	 *
 	 */
 	public function snippetsMetaBox () {
-		add_meta_box('snippets', 'Snippets', array($this, 'snippetsCallback'), 'page', 'side');
+		add_meta_box('snippets', 'Snippets', array($this, 'snippetsCallback'), array('page', 'post'), 'side');
 	}
 	
 	/**
