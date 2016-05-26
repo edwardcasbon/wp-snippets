@@ -106,7 +106,7 @@ class Snippets {
 		if($query->have_posts()) {
 			$query->the_post();
 			$snippet = get_the_content();
-			$snippet = apply_filters('the_content', $snippet);
+			$snippet = wpautop($snippet);
 			$snippet = str_replace(']]>', ']]&gt;', $snippet);
 		}
 		wp_reset_query();
